@@ -32,13 +32,6 @@ simple-calculator/
 - JavaScript evaluates the expression
 - Result is displayed instantly
 
-📸 Preview
-[ 7 ] [ 8 ] [ 9 ] [ / ]
-[ 4 ] [ 5 ] [ 6 ] [ * ]
-[ 1 ] [ 2 ] [ 3 ] [ - ]
-[ 0 ] [ . ] [ = ] [ + ]
-
-
 👤 Author
 
 Prakash K
