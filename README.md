@@ -17,15 +17,6 @@ HTML – Structure of the calculator
 CSS – Styling and layout
 JavaScript – Calculator logic and interactions
 
-📂 Project Structure
-simple-calculator/
-│
-├── index.html      # Calculator UI
-├── style.css       # Styling
-├── script.js       # Calculator logic
-└── README.md       # Project documentation
-
-
 🧠 How It Works
 - User clicks number and operator buttons
 - Input is shown on the display
@@ -35,5 +26,4 @@ simple-calculator/
 👤 Author
 
 Prakash K
-Aspiring AI Engineer 🚀
-Feel free to improve and contribute!
+Aspiring AI Engineer 
